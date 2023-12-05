@@ -1,0 +1,2 @@
+config qt creator 
+Projects->Build&Run->Desktop->Run->Working directory->change working derictory to 'code' folder to connect images that will be used

@@ -1,0 +1,130 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cone.cpp
+Cone.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cone.h
+math.h
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cone.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cylinder.cpp
+Cylinder.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cylinder.h
+math.h
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cylinder.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Plane.cpp
+Plane.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Plane.h
+math.h
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Plane.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Ray.cpp
+Ray.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Ray.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Ray.h
+glm/glm.hpp
+-
+vector
+-
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/RayTracer.cpp
+iostream
+-
+cmath
+-
+vector
+-
+GL/glew.h
+-
+GL/freeglut.h
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/glm.hpp
+-
+Sphere.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Sphere.h
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+Ray.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Ray.h
+Plane.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Plane.h
+TextureBMP.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/TextureBMP.h
+GL/glut.h
+-
+Shader.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Shader.h
+Cylinder.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cylinder.h
+Cone.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Cone.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.cpp
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+glm/glm.hpp
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Shader.h
+iostream
+-
+fstream
+-
+sstream
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Sphere.cpp
+Sphere.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Sphere.h
+math.h
+-
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/Sphere.h
+glm/glm.hpp
+-
+SceneObject.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/SceneObject.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/TextureBMP.cpp
+TextureBMP.h
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/TextureBMP.h
+
+/home/cosc/student/ezh15/Desktop/Assignment 2/code/TextureBMP.h
+iostream
+-
+fstream
+-
+glm/glm.hpp
+-
+
